@@ -56,13 +56,6 @@ July 18, 2023 - Present
 - Communication
 - Teamwork
 
----
-
-## **Achievements**
-
-1. Reported 25 High priority security issues including IDOR and XSS vulnerabilities.
-2. Identified and reported 20 Medium priority security issues related to logical flows and authorization.
-3. Discovered and reported 3 valid duplicate issues through bug bounty programs.
 
 ---
 ## **Achievements**
