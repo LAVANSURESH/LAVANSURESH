@@ -1,7 +1,7 @@
-# **[Your Name]**
+# **Lavan S**
 
 **Contact Information:**  
-Phone: 8925638062  
+Phone:   
 Email: sbgplg26@gmail.com  
 
 ---
